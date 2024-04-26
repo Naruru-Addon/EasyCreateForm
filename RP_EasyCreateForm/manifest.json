@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "フォームを簡単に作成することができます\n製作:なるる\nYouTube:なるる-Naruru",
+        "name": "簡単フォーム作成RP ver1.5.0",
+        "uuid": "8affe8b7-c284-4fdd-bb2e-9b545e28a07e",
+        "version": [1, 5, 0],
+        "min_engine_version": [1, 20, 80]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "11b70d17-fa3a-4553-b5d3-83116141527a",
+            "version": [1, 5, 0]
+        }
+    ]
+}
