@@ -2,10 +2,10 @@
     "format_version": 2,
     "header": {
         "description": "フォームを簡単に作成することができます\n製作:なるる\nYouTube:なるる-Naruru",
-        "name": "簡単フォーム作成BP ver1.5.0",
+        "name": "簡単フォーム作成BP ver1.6.0",
         "uuid": "48b1ac60-0127-4fc3-92ac-d53f410536e4",
-        "version": [1, 5, 0],
-        "min_engine_version": [1, 20, 80]
+        "version": [1, 6, 0],
+        "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {
@@ -13,24 +13,24 @@
             "type": "script",
             "language": "javascript",
             "uuid": "2daaffe5-d451-44be-b9ca-4f66c9e3afd4",
-            "version": [1, 5, 0],
+            "version": [1, 6, 0],
             "entry": "scripts/index.js"
         },
         {
             "description": "",
             "type": "data",
             "uuid": "0947d063-e47c-4fe4-9c19-efe585a0afbd",
-            "version": [1, 5, 0]
+            "version": [1, 6, 0]
         }
     ],
     "dependencies": [
         {
             "uuid": "8affe8b7-c284-4fdd-bb2e-9b545e28a07e",
-            "version": [1, 5, 0]
+            "version": [1, 6, 0]
         },
         {
             "module_name": "@minecraft/server",
-            "version": "1.11.0-beta"
+            "version": "1.12.0-beta"
         },
         {
             "module_name": "@minecraft/server-ui",
